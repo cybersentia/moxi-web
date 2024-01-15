@@ -1,0 +1,3 @@
+baseURL: "https://example.com/"
+languageCode: "zh-cn"
+title: "My Hugo Site"
